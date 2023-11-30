@@ -16,5 +16,11 @@ namespace ejemplo_cliente_web_service
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ServiceReference1.WebService1SoapClient ws = new ServiceReference1.WebService1SoapClient();
+            MessageBox.Show(ws.HelloWorld());
+        }
     }
 }

@@ -1,0 +1,10 @@
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\bin\Debug\ejemplo cliente web service.exe.config
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\bin\Debug\ejemplo cliente web service.exe
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\bin\Debug\ejemplo cliente web service.pdb
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo cliente web service.csproj.AssemblyReference.cache
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo_cliente_web_service.Form1.resources
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo_cliente_web_service.Properties.Resources.resources
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo cliente web service.csproj.GenerateResource.cache
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo cliente web service.csproj.CoreCompileInputs.cache
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo cliente web service.exe
+E:\Udla\Noveno Semestre\Integración sistemas\proyectos\SOAP Servicios Web\ejemplo cliente web service\obj\Debug\ejemplo cliente web service.pdb
